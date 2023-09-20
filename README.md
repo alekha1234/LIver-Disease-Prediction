@@ -1,5 +1,5 @@
 # Liver Disease Prediction
-![image](https://github.com/alekha1234/LIver_Disease_Prediction/assets/131946539/54a4363e-202f-4900-bd41-71ba02c19b29)
+![image](https://github.com/alekha1234/LIver_Disease_Prediction/assets/131946539/ea13c0ff-10c4-4a58-8fa0-b2ca2c0e2f90)
 
 The "Liver Disease Prediction" project is a data science endeavor aimed at developing a predictive model for the early detection of liver diseases. Leveraging a dataset from Kaggle, this project demonstrates the practical application of machine learning and data analysis techniques to tackle a critical healthcare challenge.
 
