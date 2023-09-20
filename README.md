@@ -1,29 +1,18 @@
-# LIver_Disease_Prediction
-Created a predictive model with implementation of  different classifiers on liver patient diseases dataset to predict liver diseases.
-Age : Age is the Age of the Patient in Year
+# Liver Disease Prediction
 
-Gender : Gender is the sex of Patient
+The "Liver Disease Prediction" project is a data science endeavor aimed at developing a predictive model for the early detection of liver diseases. Leveraging a dataset from Kaggle, this project demonstrates the practical application of machine learning and data analysis techniques to tackle a critical healthcare challenge.
 
-Total Bilirubin: Bilirubin is a yellow pigment produced during the breakdown of red blood cells. Elevated levels of total bilirubin in the blood can indicate liver problems.
+**Project Objective:**
+The primary objective of this project is to create a robust and accurate predictive model that can identify individuals at risk of liver diseases based on various medical and demographic features. Early detection of liver diseases can significantly improve patient outcomes by enabling timely medical intervention.
 
-Direct Bilirubin: Direct bilirubin refers to the conjugated form of bilirubin that is excreted from the liver into the bile. Elevated levels of direct bilirubin can be an indication of liver diseases or bile duct obstruction.
+**Technologies Used:**
+- **Python:** The project utilizes Python as the primary programming language for data preprocessing, analysis, and model development.
+- **Libraries:** Key Python libraries such as NumPy, pandas, scikit-learn, and Seaborn are employed for data manipulation, machine learning, and data visualization.
+- **Machine Learning:** Various machine learning algorithms are explored and compared to identify the most suitable model for predicting liver diseases.
 
-Alkaline Phosphatase: Alkaline phosphatase (ALP) is an enzyme . Elevated levels of ALP in the blood can indicate liver disorders.
+**Key Achievements:**
+- **Model Accuracy:** Through rigorous experimentation and feature engineering, the project achieved an impressive model accuracy of 82%. This high accuracy underscores the effectiveness of the predictive model in identifying potential liver disease cases.
+- **Data Visualization:** The project includes insightful data visualizations using Seaborn, allowing for a better understanding of the dataset and its characteristics.
+- **Machine Learning:** Different classification algorithms, such as decision tree classification and logistic regression, were employed to create the predictive model. The final model was selected based on its superior performance.
 
-Alamine Aminotransferase (ALT): ALT is an enzyme found primarily in the liver. Increased levels of ALT can indicate liver damage .
-
-Aspartate Aminotransferase (AST): AST is an enzyme . Elevated levels of AST can indicate liver damage, heart problems, or muscle injury.
-
-Total Proteins: Total proteins refer to the total amount of proteins present in the blood, including albumin and globulins. Abnorml levels of total proteins can indicate various medical conditions, including liver or kidney diseases.
-
-Albumin: Albumin is a protein synthesized by the liver. Low levels of albumin in the blood can be indicative of liver disease or malnutrition.
-
-Albumin and Globulin Ratio: The albumin and globulin ratio is calculated by dividing the albumin level by the globulin level. This ratio can provide additional information about liver function .
-
-Target : The patient have Liver Disease or not.
-
-
-
-The Random Forest model achieved the highest test accuracy (82.93%) among all models, followed closely by XGBoost with a test accuracy of 81.30%. The Random Forest model also had the highest F1 score (82.50%), indicating its overall good performance in terms of precision and recall. Logistic Regression, Decision Tree, and Gradient Boosting also performed reasonably well with F1 scores above 74 .
-
-So that why i am prefering Random forest .
+Early detection of liver diseases is crucial for timely medical intervention, and this project demonstrates how data science and machine learning can contribute to healthcare by providing a valuable tool for identifying individuals at risk. The "Liver Disease Prediction" project exemplifies the practical application of data science skills in solving real-world health challenges.
